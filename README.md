@@ -34,5 +34,5 @@ A dynamic music player website built using HTML5, CSS3, and JavaScript. This pro
 ![Homepage](./img/Screenshot1.png)
 
 ### 🎼 Song Controls & List
-(./img/Screenshot2.png)
+![Homepage](./img/Screenshot2.png)
 
