@@ -31,8 +31,8 @@ A dynamic music player website built using HTML5, CSS3, and JavaScript. This pro
 ## 📸 Screenshots
 
 ### 🎵 Music Player UI
-![Homepage](./Screenshot1.png)
+![Homepage](./img/Screenshot1.png)
 
 ### 🎼 Song Controls & List
-![Scroll View 1](./Screenshot2.png)
+(./img/Screenshot2.png)
 
